@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {
    "auto-changelog": "project",
-   "cssnano": "project",
+   "cssnano": "4.0.0",
    "postcss-cli": "project",
    "postcss-cssnext": "project",
    "tachyons": "project"
